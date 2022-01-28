@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>  Psia Strona  </title>
+
+    <meta charset="utf-8" />
+<meta name="description" content="Zdjecia psów i inne"/>
+<meta name="keywords" content="psy, pieski, psiaki"/>
+<link rel="stylesheet" href="css/index.css" type="text/css" />
+
+
+</head>
+<Body background="zdjecia/tapeta-psy-na-niebieskim-tle.jpg">
+
+<header>
+    <div class="logo">
+<h1>
+
+<a href="/">
+<img src="zdjecia/animals-3017138__340.webp" alt="logo pieski"/>
+</a>
+
+</h1>
+
+
+    </div>
+
+    <div class="Strona">
+    <p><strong>Wiecej Piesków:</strong><a href="https://pl.pinterest.com/search/pins/?rs=ac&len=2&q=psy&eq=psy&etslf=4021&term_meta[]=psy%7Cautocomplete%7C0">Strona z Pieskami</a></p>
+</div>
+
+<div class="clearfix">
+<nav>
+<ul>
+<li>
+<a href="/">Strona Głowna</a>
+
+</li>
+<li>
+    <a href="./podstrony/straszne psy.html">Straszne Psy</a>
+    
+    </li>
+    <li>
+        <a href="./podstrony/pies przy plocie.html">Pies Przy Płocie</a>
+        
+        </li
+        >
+        <li>
+            <a href="./podstrony/psy imprezowe.html">Psy Imprezowe</a>
+            
+            </li>
+</ul>
+<div class="clearfix">
+    <div class="Panel">
+
+        <h2>Zaloguj sie na Stronie</h2>
+      
+        <form class="Login" onsubmit="return false;">
+          
+<h3>Logowanie</h3>
+      
+ <input type="email" placeholder="Email">
+ <input type="haslo" placeholder="Hasło">
+      
+ <button class="Login">Zaloguj</button>
+
+        </form>
+      
+      </div>
+</div>
+
+</nav>
+</div>
+
+<aside>
+
+    <div class="Kontener">
+    <nav>
+<ul>
+
+<li>
+<a href="#">FORUM</a>
+
+</li>
+
+</ul>
+
+
+    </nav>
+    
+</aside>
+
+
+</div>
+
+
+
+</header>
+
+
+
+</Body>
+
+</html>
